@@ -99,6 +99,7 @@ If you want to see an example of a scene with AudioLink set up, press the "Audio
 - [ShaderForge-AudioLink](https://github.com/lethanan/ShaderForge-AudioLink) by lethanan
 - [AudioLink-USharpVideo-Adapter](https://github.com/Blabzillaweasel/AudioLink-USharpVideo-Adapter/) by Blabz
 - [ProTV](https://gitlab.com/techanon/protv) by ArchiTechAnon
+- [PartyFX](https://tsunamoo.booth.pm/items/3462959) by Cuddle Tsuna
 
 ## Thank you
 - phosphenolic for the math wizardry, conceptual programming, debugging, design help and emotional support!!!
